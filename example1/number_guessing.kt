@@ -14,7 +14,7 @@ fun main(args: Array<String>) {
     var numberRange = arrayOf<Int>(0,100)
     var numberGuess = (numberRange[1] - numberRange[0]) / 2
     var stillPlaying = true
-
+    
 
     while( stillPlaying )
     {
